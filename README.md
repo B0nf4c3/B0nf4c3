@@ -1,4 +1,4 @@
-**👋 Hi, I’m Bonface**
+**👋 Hi, I’m Bonface Maina**
 
 Welcome to my GitHub profile!
 - I'm passionate about cybersecurity, specializing in web security. 
