@@ -13,10 +13,10 @@ I break web and mobile apps to understand how to defend them. Most of my time go
 - Documenting what I find in CTF and lab writeups.
 
 ### 🎯 Focus areas
-- **Web application security** — OWASP Top 10, manual testing, request tampering.
-- **Mobile application security** — Android app testing, static and dynamic analysis.
-- **Penetration testing** — recon, enumeration, exploitation, post-exploitation.
-- **Scripting & automation** — turning repetitive recon into tooling.
+- **Web application security** —> OWASP Top 10, manual testing, request tampering.
+- **Mobile application security** —> Android app testing, static and dynamic analysis.
+- **Penetration testing** —> recon, enumeration, exploitation, post-exploitation.
+- **Scripting & automation** —> turning repetitive recon into tooling.
 
 ---
 
